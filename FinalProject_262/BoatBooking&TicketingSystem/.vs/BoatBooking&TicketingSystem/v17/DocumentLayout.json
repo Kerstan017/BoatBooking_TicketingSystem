@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|d:\\2vs\\finalproject_262\\boatbooking\u0026ticketingsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|solutionrelative:userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\loadingpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|solutionrelative:loadingpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|solutionrelative:analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0AC191-FA53-45B6-B711-F22A0C50845D}|BoatBooking\u0026TicketingSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "UserDashboard.cs",
+              "ToolTip": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:50:34.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:50:32.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\Payment.cs [Design]",
+              "RelativeToolTip": "Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:50:29.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadingPg.cs [Design]",
+              "DocumentMoniker": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\LoadingPg.cs",
+              "RelativeDocumentMoniker": "LoadingPg.cs",
+              "ToolTip": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\LoadingPg.cs [Design]",
+              "RelativeToolTip": "LoadingPg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:50:27.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs [Design]",
+              "DocumentMoniker": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\Book.cs [Design]",
+              "RelativeToolTip": "Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:50:26.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Analytics.cs [Design]",
+              "DocumentMoniker": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\Analytics.cs",
+              "RelativeDocumentMoniker": "Analytics.cs",
+              "ToolTip": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\Analytics.cs [Design]",
+              "RelativeToolTip": "Analytics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:50:25.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "D:\\2vs\\FinalProject_262\\BoatBooking\u0026TicketingSystem\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:50:22.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoatBooking_TicketingSystem.Properties.Resources">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.AdminDashboard" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cKCwIhQAADAAQRQgAACgQCISYAAAAASAAgAAEQjEQAA=</HashCode>
+      <FileName>AdminDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.Analytics" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEQhQAACQAARAAABCAQAICAoAAACgAAAAAAQBQAAA=</HashCode>
+      <FileName>Analytics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.Boats" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dAgBIjSgACAAAxAAADSEUKAiAAEAAAAAFBAwAQxAgCA=</HashCode>
+      <FileName>Boats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.Book" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAhQCACABABEAAADAQIBCBAAAECAhAAAAEQJgAAI=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.Guest" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgggQAASAIABACAACAQAACAAFEIAAgACAAAQQAAAA=</HashCode>
+      <FileName>Guest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.LoadingPg" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAACAAABAAAACAACACAAAAIAAAAAAAAYBAAAI=</HashCode>
+      <FileName>LoadingPg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.LoginPg" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABAAAACAAAACAAA4AAAAEHAAAQBAAAA=</HashCode>
+      <FileName>LoginPg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.Payment" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAIhQAACABABQAAADAAIBCAAAgEAIgAAAAAQBgACA=</HashCode>
+      <FileName>Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.Program">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.SignUp" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgQEQiAACBACAACAAEACAABAAGAAACEAAQAAAAA=</HashCode>
+      <FileName>SignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoatBooking_TicketingSystem.UserDashboard" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAnwAACAIARAAAACAQCECAAQAAAAgBAAAASBBAAA=</HashCode>
+      <FileName>UserDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
